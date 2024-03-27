@@ -22,4 +22,5 @@ Lieferdatum +
 # Daten ablegen
 # Interface für Anwendung bauen mit tkinter
 # Github Projekt anlegen
-# Vortrag vorbereiten
+# Vortrag vorbereiten 
+end
